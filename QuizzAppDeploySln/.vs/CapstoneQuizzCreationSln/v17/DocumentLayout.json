@@ -40,9 +40,9 @@
               "RelativeDocumentMoniker": "CapstoneQuizzCreationApp\\Dockerfile",
               "ToolTip": "C:\\Users\\VC\\Documents\\QuizzAppBackend\\QuizzAppDeploySln\\CapstoneQuizzCreationApp\\Dockerfile",
               "RelativeToolTip": "CapstoneQuizzCreationApp\\Dockerfile",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAABSAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-04T02:47:37.596Z",
+              "WhenOpened": "2024-08-04T03:12:06.504Z",
               "EditorCaption": ""
             },
             {
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "CapstoneQuizzCreationApp\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\QuizzAppBackend\\QuizzAppDeploySln\\CapstoneQuizzCreationApp\\Controllers\\UserController.cs",
               "RelativeToolTip": "CapstoneQuizzCreationApp\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAKsAAAAAAAAAAAAUwLYAAAAFAAAA",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAUwLQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T02:47:16.632Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "CapstoneQuizzCreationApp\\Controllers\\TestController.cs",
               "ViewState": "AQIAAB0BAAAAAAAAAAAUwCsBAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T02:46:42.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T02:46:42.392Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "CapstoneQuizzCreationApp\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAGIAAAAAAAAAAAAUwHUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T02:46:22.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T02:46:22.904Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "CapstoneQuizzCreationApp\\Controllers\\AdminController.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAQwGcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T02:44:06.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T02:44:06.973Z"
             }
           ]
         }
